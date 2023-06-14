@@ -1,1 +1,84 @@
 /* your code here */
+.content{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    height: 450px;
+}
+
+.top{
+    position: relative;
+    padding-top: 20px;
+}
+
+.logo-details{
+    font-size: 50px;
+    padding-left: 40px;
+}
+
+.media-icons{
+    position: absolute;
+    padding-top: 35px;
+    padding-right: 90px;
+    top: 0px;
+    right: 0px;
+}
+
+img{
+    height: 40px;
+    width: 40px;
+}
+
+.link-boxes{
+    margin-top: 100px;
+    padding-left: 40px;
+    position: relative;
+    font-size: 20px;
+}
+   
+.link-heads{
+    font-size: larger;
+    text-decoration:underline;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.link-box-2{
+    position: absolute;
+    top: -25px;
+    left: 23%;
+}
+
+.link-box-3{
+    position: absolute;
+    top: -25px;
+    left: 46%;
+}
+
+.link-box-4{
+    position: absolute;
+    top: -25px;
+    right: 110px;
+
+}
+
+.bottom-details{
+    background-color: rgb(95, 90, 90);
+    color: white;
+    position: relative;
+    padding: 10px;
+    padding-left: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#policy{
+    position: absolute;
+    top: -20px;
+    right: 110px;
+    padding-top: 30px;
+}

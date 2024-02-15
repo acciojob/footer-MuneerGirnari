@@ -3,7 +3,7 @@
     font-family: Arial, Helvetica, sans-serif;
     background-color: black;
     color: white;
-    height: 450px;
+    height: 320px;
 }
 
 .top{
@@ -12,7 +12,7 @@
 }
 
 .logo-details{
-    font-size: 50px;
+    font-size: 30px;
     padding-left: 40px;
 }
 
@@ -48,21 +48,24 @@ a{
 
 
 .link-box-2{
+    margin-top: -124px;
     position: absolute;
-    top: -25px;
+    font-size: 20px;
     left: 23%;
 }
 
 .link-box-3{
+    margin-top: -124px;
     position: absolute;
-    top: -25px;
+    font-size: 20px;
     left: 46%;
 }
 
 .link-box-4{
+    margin-top: -124px;
     position: absolute;
-    top: -25px;
-    right: 110px;
+    font-size: 20px;
+    left: 70%;
 
 }
 
